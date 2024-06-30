@@ -1,0 +1,2 @@
+## Singapore_Flat_Resale
+This project aims to develop a machine learning model and create a user-friendly online application to predict accurate resale values for apartments in Singapore. Using historical resale transactions data, the model considers factors such as location, apartment type, size, and lease duration to estimate the future resale price. The goal is to assist both buyers and sellers by providing a reliable prediction tool for evaluating the worth of a previously resold flat. This predictive model addresses challenges associated with diverse influencing fac
